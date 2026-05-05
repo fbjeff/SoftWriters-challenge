@@ -10,6 +10,7 @@ namespace CodeChallenge
     {
 
 
+        
         //Was meant to be a class used to compare prev and current indecies to guage for direction
         //private Coordinate[] directions = 
         //{
